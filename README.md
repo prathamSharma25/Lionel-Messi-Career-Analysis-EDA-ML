@@ -1,0 +1,2 @@
+# Lionel-Messi-Career-Analysis-EDA-ML
+This Data Science project consists of an Exploratory Data Analysis of football events dataset and other football related datasets to analyze the footballing career of Lionel Messi at FC Barcelona based on various crucial statistics. The project also involves a logistic regression model to predict expected goals for players. Finally, the project also aims to explore future prospects for Lionel Messi.
