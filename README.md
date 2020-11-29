@@ -17,3 +17,13 @@ For Exploratoty Data Analysis, I have computed various crucial statistics for fo
 Further, I have utilised a Logistic Regression model in order to predict the probability of an attempt at goal (describesd in the football events dataset) ending up in the back of the net. Summing up the probability values for each attempt will give us the value for expected goals for players. Using an expected goals model, we can see if a player is performed better than or worse than expected in terms of goal-scoring.
 
 Finally, I have given my own verdict of which club would be the next best destination for Lionel Messi in case of a departure from FC Barcelona. To do this, I have analyzed each of Europe's top 5 leagues (Germany, Spain, France, England and Italy) and compared it with LA Liga, where Lionel Messi has played during all of his career. By comparing and looking at the various stats computed during this project, I have described in which club would Leo fit best and continue his career.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pratham Sharma
+
+Student at Vellore Institute of Technology, Vellore, Tamil Nadu, India
+
+Reach out to me: prathams2425@gmail.com
+
+LinkedIn profile: https://www.linkedin.com/in/pratham-sharma-620418178/
