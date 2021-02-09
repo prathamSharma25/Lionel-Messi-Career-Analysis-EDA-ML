@@ -19,6 +19,7 @@ Further, I have utilised a Logistic Regression model in order to predict the pro
 Finally, I have given my own verdict of which club would be the next best destination for Lionel Messi in case of a departure from FC Barcelona. To do this, I have analyzed each of Europe's top 5 leagues (Germany, Spain, France, England and Italy) and compared it with LA Liga, where Lionel Messi has played during all of his career. By comparing and looking at the various stats computed during this project, I have described in which club would Leo fit best and continue his career.
 
 Kaggle Notebook: https://www.kaggle.com/prathamsharma123/lionel-messi-career-analysis
+
 Kaggle Dataset: https://www.kaggle.com/prathamsharma123/comprehensive-football-dataset
 
 ---
